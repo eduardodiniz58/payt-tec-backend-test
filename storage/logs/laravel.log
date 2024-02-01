@@ -1,0 +1,40 @@
+[2024-01-31 17:19:03] local.ERROR: Cannot use empty array elements in arrays {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use empty array elements in arrays at C:\\Users\\Eduardo Diniz\\Desktop\\PayTech\\app\\Http\\Kernel.php:18)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-31 17:19:15] local.ERROR: Cannot use empty array elements in arrays {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use empty array elements in arrays at C:\\Users\\Eduardo Diniz\\Desktop\\PayTech\\app\\Http\\Kernel.php:18)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-31 17:25:32] local.ERROR: Cannot use empty array elements in arrays {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use empty array elements in arrays at C:\\Users\\Eduardo Diniz\\Desktop\\PayTech\\app\\Http\\Kernel.php:18)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-31 17:30:19] local.ERROR: Cannot use empty array elements in arrays {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use empty array elements in arrays at C:\\Users\\Eduardo Diniz\\Desktop\\PayTech\\app\\Http\\Kernel.php:18)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-31 17:30:19] local.ERROR: Cannot use empty array elements in arrays {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use empty array elements in arrays at C:\\Users\\Eduardo Diniz\\Desktop\\PayTech\\app\\Http\\Kernel.php:18)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-31 17:30:38] local.ERROR: Cannot use empty array elements in arrays {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use empty array elements in arrays at C:\\Users\\Eduardo Diniz\\Desktop\\PayTech\\app\\Http\\Kernel.php:18)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-31 17:31:04] local.ERROR: Cannot use empty array elements in arrays {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use empty array elements in arrays at C:\\Users\\Eduardo Diniz\\Desktop\\PayTech\\app\\Http\\Kernel.php:18)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-31 17:32:57] local.ERROR: Cannot use empty array elements in arrays {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use empty array elements in arrays at C:\\Users\\Eduardo Diniz\\Desktop\\PayTech\\app\\Http\\Kernel.php:18)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-31 17:35:40] local.ERROR: Cannot use empty array elements in arrays {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use empty array elements in arrays at C:\\Users\\Eduardo Diniz\\Desktop\\PayTech\\app\\Http\\Kernel.php:18)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-01 15:19:40] local.ERROR: Cannot use empty array elements in arrays {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use empty array elements in arrays at C:\\Users\\Eduardo Diniz\\Desktop\\PayTech\\app\\Http\\Kernel.php:18)
+[stacktrace]
+#0 {main}
+"} 
